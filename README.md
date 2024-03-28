@@ -8,28 +8,29 @@
 </h1>
 
 ### 👩‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Texas.
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Texas with 8+ years of experience in technology within system administration and IT specialist roles. Driven by a passion for innovation, I transitioned to web design and development, merging creativity with my technical aptitude. 
 
-- :seedling: Experienced System Administrator transitioning to Software Development with a passion for creativity.
-
-- 🏒 In my free time, I root for the Dallas Stars.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JxZnI1ZzV2dnphY3U1ZXZpcTdleHhmOXgybGVxbnJpaGRpNWpudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dQAqfIetnd27uLgRlP/giphy.gif" width="40">
+- 🏒 In my free time, I root for the Dallas Stars <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JxZnI1ZzV2dnphY3U1ZXZpcTdleHhmOXgybGVxbnJpaGRpNWpudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dQAqfIetnd27uLgRlP/giphy.gif" width="40"> and add to my indoor plant collection. :seedling:
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lankford-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethlankford/)
-- 💻 Portfolio : [Elizabeth Lankford](https://elizabeth-lankford.com/)
+  
+- 💻 Check out my Portfolio: [Elizabeth Lankford](https://elizabeth-lankford.com/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
 </div>
 
