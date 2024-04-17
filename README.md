@@ -37,8 +37,8 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizabethLankford&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethLankford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizabethLankford)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethLankford&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ElizabethLankford/ElizabethLankford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
